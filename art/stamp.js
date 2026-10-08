@@ -1,0 +1,2 @@
+window.ART_LIBRARY = window.ART_LIBRARY || {};
+window.ART_LIBRARY["stamp"]={"name": "stamp.svg", "mime": "image/svg+xml", "data": "PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAgMTgwIj48ZyBmaWxsPSJub25lIiBzdHJva2U9IiNiOTYxNTQiIHN0cm9rZS13aWR0aD0iNSI+PGNpcmNsZSBjeD0iMTIwIiBjeT0iOTAiIHI9IjY2Ii8+PGNpcmNsZSBjeD0iMTIwIiBjeT0iOTAiIHI9IjU0Ii8+PHBhdGggZD0iTTg1IDkwTDExMCAxMTdMMTU3IDY0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iOSIvPjwvZz48L3N2Zz4="};

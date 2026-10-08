@@ -1,0 +1,2 @@
+window.ART_LIBRARY = window.ART_LIBRARY || {};
+window.ART_LIBRARY["label"]={"name": "label.svg", "mime": "image/svg+xml", "data": "PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAgMTgwIj48cGF0aCBkPSJNMjAgNDhRMTIwIDI5IDIyMCA0OEwyMTEgMTM4UTEyMCAxNDkgMjkgMTM4WiIgZmlsbD0iI2ZmZjdkZiIgc3Ryb2tlPSIjYjc5MjY3IiBzdHJva2Utd2lkdGg9IjMiLz48cGF0aCBkPSJNMzIgNThRMTIwIDQzIDIwOCA1OEwyMDAgMTI2UTEyMCAxMzggNDAgMTI2WiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZDJiYTk0Ii8+PC9zdmc+"};

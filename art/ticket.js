@@ -1,0 +1,2 @@
+window.ART_LIBRARY = window.ART_LIBRARY || {};
+window.ART_LIBRARY["ticket"]={"name": "ticket.svg", "mime": "image/svg+xml", "data": "PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAgMTgwIj48cmVjdCB4PSIxMCIgeT0iMTAiIHdpZHRoPSIyMjAiIGhlaWdodD0iMTYwIiByeD0iMTIiIGZpbGw9IiNmZmYyZDciIHN0cm9rZT0iI2MzYTU3YSIgc3Ryb2tlLXdpZHRoPSI0Ii8+PHBhdGggZD0iTTg1IDE4VjE2Mk0xNTUgMThWMTYyTTE4IDYzSDIyMk0xOCAxMTdIMjIyIiBzdHJva2U9IiNjM2E1N2EiIHN0cm9rZS13aWR0aD0iMiIvPjwvc3ZnPg=="};

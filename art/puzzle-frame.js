@@ -1,0 +1,2 @@
+window.ART_LIBRARY = window.ART_LIBRARY || {};
+window.ART_LIBRARY["puzzle-frame"]={"name": "puzzle-frame.svg", "mime": "image/svg+xml", "data": "PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAgMTgwIj48cmVjdCB4PSI5IiB5PSI5IiB3aWR0aD0iMjIyIiBoZWlnaHQ9IjE2MiIgcng9IjEyIiBmaWxsPSJub25lIiBzdHJva2U9IiM5Yjc0NDEiIHN0cm9rZS13aWR0aD0iMTYiLz48cmVjdCB4PSI5IiB5PSI5IiB3aWR0aD0iMjIyIiBoZWlnaHQ9IjE2MiIgcng9IjEyIiBmaWxsPSJub25lIiBzdHJva2U9IiNkZGJlODIiIHN0cm9rZS13aWR0aD0iMTAiLz48L3N2Zz4="};
